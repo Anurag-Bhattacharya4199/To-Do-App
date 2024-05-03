@@ -1,4 +1,1 @@
 prepare
-shower
-play
-fix
