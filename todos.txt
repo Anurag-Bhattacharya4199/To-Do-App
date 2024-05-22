@@ -1,7 +1,7 @@
 add a new player
-Update the OS
 add a new player
 add a new member
 Buy a Camera
 make soup
 make pizza
+Clean the code
