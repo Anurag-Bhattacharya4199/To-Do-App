@@ -1,7 +1,5 @@
-add a new player
 make pizza
 Buy plantsNew Order
-Master Python
 last
 TestFix the computerFix the lamp.
 Test
