@@ -1,6 +1,4 @@
 add a new player
-add a new player
-Clean the programGood Ordermake soup
 make pizza
 Buy plantsNew Order
 Master Python
